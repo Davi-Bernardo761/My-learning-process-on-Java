@@ -1,3 +1,4 @@
+//This program shows 3 examples of using the random class in Java.
 import java.util.Random;
 public class RandomNumbers {
     public static void main (String[] args){
