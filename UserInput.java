@@ -1,4 +1,4 @@
-//This program asks the user pieces of information, stores them on variables and prints the information.
+//This program asks the user pieces a series of personal information, stores them on variables and prints the information.
 import java.util.Scanner;
 public class UserInput {
     public static void main (String[] args){
