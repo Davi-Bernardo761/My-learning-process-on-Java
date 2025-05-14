@@ -1,3 +1,4 @@
+//This program asks the user for the lengths of the 2 sides of a right triangle, calculate its hypotenuse and prints it on the screen. 
 import java.util.Scanner;
 public class PythagoreanTriangle {
     public static void main(String[] args){
