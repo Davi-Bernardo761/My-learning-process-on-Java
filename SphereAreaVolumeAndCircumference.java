@@ -1,3 +1,4 @@
+//This program asks the user the value of a radius, whit this value calculates the lenght of the circumference, the area of the circle, the area of the sphere and it's volume. 
 import java.util.Scanner;
 public class SphereAreaVolumeAndCircumference {
     public static void main (String[] args){
