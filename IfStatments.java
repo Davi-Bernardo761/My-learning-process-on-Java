@@ -1,3 +1,4 @@
+//This program demonstrates the use of if statments in java. 
 import java.util.Scanner;
 public class Ifstatments {
     public static void main (String[] args) {
@@ -7,7 +8,7 @@ public class Ifstatments {
         System.out.print("What is your age? ");
         int age = scanner.nextInt();
         scanner.nextLine();
-        System.out.print("Are alive? (answer whit true or false) ");
+        System.out.print("Are you alive? (answer with true or false) ");
         boolean lifeStatus = scanner.nextBoolean();
 
         if (name.isEmpty()){
