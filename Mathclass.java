@@ -1,3 +1,4 @@
+//This program demonstrates the many uses of the Math class in Java.
 public class Mathclass {
     public static void main (String[] args){
         double number = 0;
