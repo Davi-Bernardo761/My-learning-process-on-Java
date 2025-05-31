@@ -1,3 +1,4 @@
+//This program demonstrates a simple use of the while loop in java.
 import java.util.Scanner;
 public class WhileLoops {
     public static void main (String [] args){
