@@ -1,9 +1,9 @@
-//A program that makes simple matrices. 
+//This program demonstrates a simple use of nested for loops to create matrices. 
 import java.util.Scanner;
 public class NestedForLoops {
     public static void main (String [] args){
         Scanner scanner = new Scanner(System.in);
-        System.out.println("This program will make a matrix using the number of rows and collumns given by the user.");
+        System.out.println("This program will make a matrix using the number of vertical lines and horizontal lines given by the user.");
         System.out.print("Insert the number of horizontal lines.");
         int horizontal = scanner.nextInt();
         System.out.print("Insert the number of vertical lines");
