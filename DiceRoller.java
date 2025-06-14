@@ -62,6 +62,9 @@ public class DiceRoller {
                                 |O O|
                                 -----
                                 """);
+                        default -> {System.out.println("You've done something wrong, try again.")
+                            System.exit(0);
+                                   }
                     }
                 }
             }
